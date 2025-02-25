@@ -32,3 +32,9 @@ df = pd.read_csv("jumia_products.csv")
 
 Analysis Report: https://docs.google.com/document/d/12ygggSTOL709JnasmGpW4fFFSk28mM7B6LQpvpn0Zd4/edit?tab=t.0
 
+Collaborators: Iradukunda Ruth
+               Mahamat Hissein Ahmat
+               Kevin Kenny Mugisha
+               Alhassan Alimamy Dumbuya
+               Humphrey Jones Gabarinocheka Nyahoja
+
